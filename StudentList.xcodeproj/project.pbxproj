@@ -13,6 +13,7 @@
 		9DFE1BC41D26D55A00F80375 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DFE1BBE1D26D55A00F80375 /* AppDelegate.swift */; };
 		9DFE1BC81D26D81000F80375 /* StudentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DFE1BC71D26D81000F80375 /* StudentCell.swift */; };
 		9DFE1BCA1D26D84500F80375 /* StudentsCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DFE1BC91D26D84500F80375 /* StudentsCollectionViewController.swift */; };
+		CE2615631D271F16001098BF /* Tyler.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CE2615621D271F16001098BF /* Tyler.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9DFE1BBE1D26D55A00F80375 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9DFE1BC71D26D81000F80375 /* StudentCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StudentCell.swift; sourceTree = "<group>"; };
 		9DFE1BC91D26D84500F80375 /* StudentsCollectionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StudentsCollectionViewController.swift; sourceTree = "<group>"; };
+		CE2615621D271F16001098BF /* Tyler.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Tyler.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +89,7 @@
 		9DFE1BCC1D26DCAB00F80375 /* StudentImages */ = {
 			isa = PBXGroup;
 			children = (
+				CE2615621D271F16001098BF /* Tyler.jpg */,
 			);
 			path = StudentImages;
 			sourceTree = "<group>";
@@ -149,6 +152,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE2615631D271F16001098BF /* Tyler.jpg in Resources */,
 				9DFE1BC21D26D55A00F80375 /* Main.storyboard in Resources */,
 				9DFE1BC01D26D55A00F80375 /* Assets.xcassets in Resources */,
 				9DFE1BC11D26D55A00F80375 /* LaunchScreen.storyboard in Resources */,
@@ -316,6 +320,7 @@
 				9DFE1BB51D26D51600F80375 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
